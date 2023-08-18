@@ -1,8 +1,8 @@
 # My Portfolio
 
-[Marie Lenac - Personal Portfolio](https://malicemarie.github.io/MyPortfolio/)
+[Marie Lenac - Personal Portfolio](https://github.com/motirase/MyPortfolio/)
 
-## Marie Lenac
+## Megersa   Oljira Rase
 
 ### About:
 
