@@ -1,6 +1,6 @@
 # My Portfolio
 
-[Marie Lenac - Personal Portfolio](https://github.com/motirase/MyPortfolio/)
+[Megersa   Oljira Rase - Personal Portfolio](https://github.com/motirase/MyPortfolio/)
 
 ## Megersa   Oljira Rase
 
